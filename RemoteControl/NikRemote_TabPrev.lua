@@ -1,6 +1,3 @@
--- @description Nik RemoteControl — Tab Prev
--- @version 1.0
--- @author Nik
 local projects = {}
 local i = 0
 while true do
